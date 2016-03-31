@@ -1,7 +1,7 @@
 name: fortune500designs
 favicon: null
-layout_spectrum: 0.4983830191195011
-typography_spectrum: 0.06526430929079652
+layout_spectrum: 0.26319
+typography_spectrum: 0.89003
 title: F500designs
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.8081150497309864
-  lightness: 0.1595595651306212
-  saturation: 0.8348697437904775
-  rhythmicContrast: 0.7388969543389976
+  brandStrength: 1
+  lightness: 0.25
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
