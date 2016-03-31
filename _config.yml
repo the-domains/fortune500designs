@@ -1,0 +1,29 @@
+name: fortune500designs
+favicon: null
+layout_spectrum: 0.4983830191195011
+typography_spectrum: 0.06526430929079652
+title: F500designs
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8081150497309864
+  lightness: 0.1595595651306212
+  saturation: 0.8348697437904775
+  rhythmicContrast: 0.7388969543389976
+purpose: []
